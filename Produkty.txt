@@ -1,0 +1,353 @@
+IDProduktu	NazwaProduktu	KodRodzajuProduktu
+1	Apple iPad 3G	1
+2	Apple iPad Wi-Fi	1
+3	Apple iPhone 4	2
+4	HTC 7 Mozart	2
+5	HTC 7 Surround	2
+6	HTC 7 Trophy	2
+7	HTC Aria	2
+8	HTC Desire	2
+9	HTC Desire HD	2
+10	HTC Desire Z	2
+		
+11	HTC HD Mini	2
+12	HTC HD7	2
+13	HTC Legend	2
+14	HTC Smart	2
+15	HTC Wildfire	2
+16	Huawei Ideos S7	1
+17	LG Optimus 7	2
+18	LG Optimus One P500	2
+19	Nokia C5-00	2
+20	Nokia N8	2
+21	Samsung Galaxy S	2
+22	Samsung Galaxy Tab 7.0 3G	1
+23	Samsung Galaxy Tab 7.0 Wi-Fi	1
+24	Samsung Omnia 7	2
+25	Sony Ericsson Xperia X10	2
+26	Acer Iconia Tab A500	1
+27	Acer Iconia Tab A501	1
+28	Apple iPad 2	1
+29	Apple iPhone 4S	2
+30	Asus Eee Pad Transformer Prime	1
+31	Asus Eee Pad Transformer TF101	1
+32	HP Pre 3	2
+33	HTC 7 Pro	2
+34	HTC Desire S	2
+35	HTC EVO 3D	2
+36	HTC Incredible S	2
+37	HTC Sensation	2
+38	HTC Wildfire S	2
+39	Lenovo IdeaPad K1	1
+40	LG Optimus 2X	2
+41	Motorola Atrix 4G	2
+42	Motorola Droid Bionic	2
+43	Motorola Droid RAZR	2
+44	Nokia E6-00	2
+45	Nokia Lumia 710	2
+46	Nokia Lumia 800	2
+47	Nokia N9	2
+48	Samsung Galaxy Note	2
+49	Samsung Galaxy S II	2
+50	Samsung Galaxy Tab 10.1	1
+51	Samsung Galaxy Tab 10.1 3G	1
+52	Samsung Galaxy Tab 7 Plus 3G	1
+53	Samsung Galaxy Tab 7 Plus Wi-Fi	1
+54	Samsung Galaxy W	2
+55	Samsung Infuse 4G	2
+56	Sony Ericsson Xperia Arc	2
+57	Sony Ericsson Xperia arc S	2
+58	Sony Ericsson Xperia Neo	2
+59	Sony Tablet P	1
+60	Sony Tablet S	1
+61	Acer Iconia Tab A200	1
+62	Acer Iconia Tab A210	1
+63	Acer Iconia Tab A510	1
+64	Acer Iconia Tab A700	1
+65	Acer Iconia Tab A701 3G	1
+66	Apple iPad 3	1
+67	Apple iPad 3 LTE	1
+68	Apple iPad 4	1
+69	Apple iPad 4 LTE	1
+70	Apple iPad mini	1
+71	Apple iPhone 5	2
+72	Asus Google Nexus 7	1
+73	Asus Transformer T300	1
+74	Asus Vivo Tab Smart	1
+75	Asus VivoTab RT	1
+76	HTC One X	2
+77	HTC One X+	2
+78	Huawei MediaPad 10 FHD	1
+79	Huawei Mediapad 10 Link 3G	1
+80	Huawei MediaPad 7 Lite	1
+81	Lenovo ThinkPad Indigo	1
+82	LG Optimus Pad	1
+83	Nokia Lumia 900	2
+84	Nokia Lumia 920	2
+85	Samsung ATIV S	2
+86	Samsung Galaxy Note 10.1 3G	1
+87	Samsung Galaxy Note 10.1 Wi-Fi	1
+88	Samsung Galaxy Note II	2
+89	Samsung Galaxy S III	2
+90	Samsung Galaxy Tab 2 10.1	1
+91	Samsung Galaxy Tab 2 7.0	1
+92	Samsung Galaxy Tab 8.9 3G	1
+93	Samsung Galaxy Tab 8.9 LTE	1
+94	Samsung Galaxy Tab 8.9 Wi-Fi	1
+95	Sony Xperia S	2
+96	Sony Xperia T	2
+97	Sony Xperia Tablet S	1
+98	Sony Xperia Tablet S Wi-Fi	1
+99	Acer Iconia B1-710	1
+100	Acer Iconia B1-711 3G	1
+101	Acer Iconia Tab A1-810	1
+102	Acer Iconia Tab B1-A71	1
+103	Acer Iconia Tab W3-810	1
+104	Acer Iconia Tab W511	1
+105	Apple iPad Air	1
+106	Apple iPad Air LTE	1
+107	Apple iPad Mini 2	1
+108	Apple iPad mini 2 LTE	1
+109	Apple iPhone 5S	2
+110	Asus Google Nexus 7 2013	1
+111	Asus MeMO Pad 10	1
+112	Asus MeMO Pad 7	1
+113	Asus MeMO Pad FHD 10	1
+114	Asus MeMO Pad HD 7	1
+115	Asus MeMO Pad HD 8	1
+116	Asus MeMO Pad Smart	1
+117	Asus Transformer Book T100T / T100TA	1
+118	BlackBerry Z10	2
+119	Blackberry Z30	2
+120	HTC One	2
+121	Lenovo A2107	1
+122	Lenovo A2107A 3G	1
+123	Lenovo IdeaTab S6000H	1
+124	Lenovo S5000	1
+125	Lenovo ThinkPad 2	1
+126	Lenovo Yoga 8 3G	1
+127	Lenovo Yoga Tab 10	1
+128	LG G2	2
+129	LG Nexus 5	2
+130	Nokia Lumia 1020	2
+131	Samsung Galaxy Note 10.1 2014 edition 3G	1
+132	Samsung Galaxy Note 10.1 2014 edition LTE	1
+133	Samsung Galaxy Note 10.1 2014 edition Wi-Fi	1
+134	Samsung Galaxy Note 8.0 3G	1
+135	Samsung Galaxy Note 8.0 LTE	1
+136	Samsung Galaxy Note 8.0 Wi-Fi	1
+137	Samsung Galaxy S4	2
+138	Samsung Galaxy Tab 3 10.1 3G	1
+139	Samsung Galaxy Tab 3 10.1 LTE	1
+140	Samsung Galaxy Tab 3 10.1 Wi-Fi	1
+141	Samsung Galaxy Tab 3 7.0 3G	1
+142	Samsung Galaxy Tab 3 7.0 Wi-Fi	1
+143	Samsung Galaxy Tab 3 8.0 3G	1
+144	Samsung Galaxy Tab 3 8.0 LTE	1
+145	Samsung Galaxy Tab 3 8.0 Wi-Fi	1
+146	Samsung Galaxy Tab 3 Kids	1
+147	Sony Xperia Tablet Z LTE	1
+148	Sony Xperia Tablet Z Wi-Fi	1
+149	Sony Xperia Z	2
+150	Sony Xperia Z1	2
+151	Acer Aspire Switch 10 E	1
+152	Acer Aspire Switch 2	1
+153	Acer Iconia A1-840FHD	1
+154	Acer Iconia One 7 B1-770 Wi-Fi	1
+155	Acer Iconia One Tab 8	1
+156	Acer Iconia Tab 10	1
+157	Acer Iconia Tab 8	1
+158	Acer Iconia Tab 8 A1-841	1
+159	Apple iPad Air 2 LTE	1
+160	Apple iPad Air 2 Wi-Fi	1
+161	Apple iPad mini 3	1
+162	Apple iPad Mini 3 LTE	1
+163	Apple iPhone 6	2
+164	Apple iPhone 6 Plus	2
+165	Asus Fonepad 8	1
+166	Asus MeMO Pad 8	1
+167	Asus T100TAM-DK004B	1
+168	Asus T100TAM-DK009H	1
+169	Asus Transformer Book T100HA	1
+170	Asus Transformer Book T100TAF-W10-DK076T	1
+171	Asus Transformer Book T200	1
+172	HTC One (M8)	2
+173	Huawei MediaPad M1 8.0 LTE	1
+174	Huawei MediaPad M1 8.0 Wi-Fi	1
+175	Huawei MediaPad T1 8.0 3G	1
+176	Huawei MediaPad T1 8.0 LTE	1
+177	Huawei MediaPad T1 8.0 Wi-Fi	1
+178	Lenovo A7-50 A3500-F	1
+179	Lenovo A7-50 A3500-H	1
+180	Lenovo A7600 A10-70 3G	1
+181	Lenovo A8-50 3G	1
+182	Lenovo A8-50F	1
+183	Lenovo Miix 2	1
+184	Lenovo Tab S8	1
+185	Lenovo ThinkPad Tablet 10	1
+186	Lenovo Thinkpad Tablet 8	1
+187	Lenovo Vibe X2	2
+188	Lenovo Yoga 2 8.0	1
+189	Lenovo Yoga 2 8.0 Windows	1
+190	Lenovo Yoga 2 LTE	1
+191	Lenovo Yoga 2 Pro	1
+192	Lenovo Yoga 2 Pro LTE	1
+193	Lenovo Yoga 2 Wi-Fi	1
+194	Lenovo Yoga Tab 2 10.1	1
+195	Lenovo Yoga Tab 2 10.1 Windows	1
+196	LG G Pad 8.0	1
+197	LG G Pad 8.0 LTE	1
+198	LG G3	2
+199	Samsung Galaxy Note 4	2
+200	Samsung Galaxy Note Pro 12.2 LTE	1
+201	Samsung Galaxy Note Pro 12.2 Wi-Fi	1
+202	Samsung Galaxy S5	2
+203	Samsung Galaxy Tab 3 Lite 7.0 3G	1
+204	Samsung Galaxy Tab 4 10.1 3G	1
+205	Samsung Galaxy Tab 4 10.1 LTE	1
+206	Samsung Galaxy Tab 4 10.1 Wi-Fi	1
+207	Samsung Galaxy Tab 4 7.0 3G	1
+208	Samsung Galaxy Tab 4 7.0 LTE	1
+209	Samsung Galaxy Tab 4 7.0 Wi-Fi	1
+210	Samsung Galaxy Tab 4 8.0 3G	1
+211	Samsung Galaxy Tab 4 8.0 LTE	1
+212	Samsung Galaxy Tab 4 8.0 Wi-Fi	1
+213	Samsung Galaxy Tab Active	1
+214	Samsung Galaxy Tab Active Lte	1
+215	Samsung Galaxy Tab Pro 10.1 LTE	1
+216	Samsung Galaxy Tab Pro 10.1 Wi-Fi	1
+217	Samsung Galaxy Tab Pro 8.4 LTE	1
+218	Samsung Galaxy Tab Pro 8.4 Wi-Fi	1
+219	Samsung Galaxy Tab S 10.5 LTE	1
+220	Samsung Galaxy Tab S 10.5 Wi-Fi	1
+221	Samsung Galaxy Tab S 8.4 LTE	1
+222	Samsung Galaxy Tab S 8.4 Wi-Fi	1
+223	Sony Xperia Tablet Z2 LTE	1
+224	Sony Xperia Tablet Z2 Wi-Fi	1
+225	Sony Xperia Tablet Z3 Compact LTE	1
+226	Sony Xperia Tablet Z3 Compact Wi-Fi	1
+227	Sony Xperia Z3	2
+228	Acer Iconia One 10 B3-A20 Wi-Fi	1
+229	Acer Iconia One 8 Wi-Fi	1
+230	Acer One 10 S1002-194V	1
+231	Acer Predator 8	1
+232	Apple iPad mini 4	1
+233	Apple iPad Mini 4 LTE	1
+234	Apple iPad Pro 12.9 LTE	1
+235	Apple iPad Pro 12.9 Wi-Fi	1
+236	Apple iPhone 6S	2
+237	Apple iPhone 6S Plus	2
+238	Asus Transformer Book T300 Chi	1
+239	Asus ZenPad 7.0 Wi-Fi	1
+240	Asus ZenPad 8.0 LTE	1
+241	Asus ZenPad C 7.0 Wi-Fi	1
+242	BlackBerry Priv	2
+243	HTC One M9	2
+244	Huawei MediaPad M2 8.0 LTE 2GB	1
+245	Huawei MediaPad M2 8.0 LTE 3GB	1
+246	Huawei MediaPad T1 10.0 LTE	1
+247	Huawei MediaPad T1 10.0 Wi-Fi	1
+248	Huawei MediaPad T1 7.0 Wi-Fi	1
+249	Huawei MediaPad X2	1
+250	Lenovo A7-10F	1
+251	Lenovo A7-30 A3300-H 3G	1
+252	Lenovo Tab 2 A10-70F Wi-Fi	1
+253	Lenovo Tab 2 A10-70L LTE	1
+254	Lenovo Tab 2 A7-10F Wi-Fi	1
+255	Lenovo Tab 2 A7-30 3G	1
+256	Lenovo Tab 2 A8-50L LTE	1
+257	Lenovo ThinkPad 10 2 LTE	1
+258	Lenovo ThinkPad 10 2 Wi-Fi	1
+259	Lenovo Yoga Tab 3 X50F	1
+260	Lenovo Yoga Tab 3 X50L LTE	1
+261	LG G4	2
+262	LG V10	2
+263	Microsoft Lumia 950	2
+264	Microsoft Lumia 950 XL	2
+265	Motorola Moto X Play	2
+266	Motorola Moto X Style	2
+267	Samsung Galaxy Note 5	2
+268	Samsung Galaxy S6	2
+269	Samsung Galaxy S6 Edge	2
+270	Samsung Galaxy S6 Edge+	2
+271	Samsung Galaxy Tab A 9.7 LTE	1
+272	Samsung Galaxy Tab A 9.7 Wi-Fi	1
+273	Samsung Galaxy Tab E 96 3G	1
+274	Samsung Galaxy Tab E 96 Wi-Fi	1
+275	Samsung Galaxy Tab S2 8.0 LTE	1
+276	Samsung Galaxy Tab S2 8.0 Wi-Fi	1
+277	Samsung Galaxy Tab S2 9.7 LTE	1
+278	Samsung Galaxy Tab S2 9.7 Wi-Fi	1
+279	Sony Xperia Tablet Z4 LTE	1
+280	Sony Xperia Tablet Z4 Wi-Fi	1
+281	Sony Xperia Z3+	2
+282	Sony Xperia Z5	2
+283	Sony Xperia Z5 Premium	2
+284	Acer Iconia Talk S LTE	1
+285	Apple iPad Pro 9.7	1
+286	Apple iPad Pro 9.7 LTE	1
+287	Apple iPhone 7	2
+288	Apple iPhone 7 Plus	2
+289	Asus Transformer 3	1
+290	Asus Transformer 3 Pro	1
+291	BlackBerry DTEK50	2
+292	BlackBerry DTEK60	2
+293	HTC 10	2
+294	Huawei MediaPad M2 10.0 LTE	1
+295	Huawei MediaPad M2 10.0 Wi-Fi	1
+296	Huawei MediaPad M3 WiFi	1
+297	Huawei MediaPad Premium M2 10.0	1
+298	Huawei P9	2
+299	Lenovo IdeaPad Miix 300-10	1
+300	Lenovo IdeaPad Miix 700-12 Wi-Fi	1
+301	Lenovo IdeaTab Miix 700-12 LTE	1
+302	Lenovo Tab 3 A7-10F Wi-Fi	1
+303	Lenovo Tab 3 A8-50F Wi-Fi	1
+304	Lenovo Tab 3 A8-50M LTE	1
+305	Lenovo Tab3 A7-10I 3G	1
+306	Lenovo Tab3 A7-30M LTE	1
+307	Lenovo Yoga Tab 3 10-in	1
+308	Lenovo Yoga Tab 3 10-in Wi-Fi	1
+309	Lenovo Yoga Tab 3 850F Wi-Fi	1
+310	Lenovo Yoga Tab 3 850L LTE	1
+311	Lenovo Yoga Tab 3 Plus LTE	1
+312	Lenovo Yoga Tab 3 Plus Wi-Fi	1
+313	Lenovo Yoga Tab 3 Pro X90L LTE	1
+314	LG G5	2
+315	LG V20	2
+316	Microsoft Lumia 650	2
+317	Motorola Moto Z	2
+318	Samsung Galaxy S7	2
+319	Samsung Galaxy S7 Edge	2
+320	Samsung Galaxy Tab A 10.1 LTE	1
+321	Samsung Galaxy Tab A 10.1 Wi-Fi	1
+322	Samsung Galaxy Tab A 7.0 LTE	1
+323	Samsung Galaxy Tab A 7.0 Wi-Fi	1
+324	Sony Xperia X Performance	2
+325	Sony Xperia XZ	2
+326	Apple iPhone 8	2
+327	Apple iPhone 8 Plus	2
+328	Apple iPhone X	2
+329	Asus Transformer Book T101	1
+330	Asus Transformer Mini T102	1
+331	BlackBerry KEYone	2
+332	HTC U11	2
+333	Huawei Honor 9	2
+334	Huawei Mate 10 Pro	2
+335	Huawei P10	2
+336	Lenovo Miix 320 WiFi	1
+337	Lenovo Tab 4 10	1
+338	Lenovo Tab 4 10 Plus	1
+339	Lenovo Tab 4 8	1
+340	Lenovo Tab 4 8 Plus	1
+		
+341	LG G6	2
+342	LG V30	2
+343	Motorola Moto G5	2
+344	Nokia 8	2
+345	Samsung Galaxy Note 8	2
+346	Samsung Galaxy S8	2
+347	Samsung Galaxy S8+	2
+348	Samsung Galaxy Tab S3 LTE	1
+349	Samsung Galaxy Tab S3 WiFi	1
+350	Sony Xperia XZ Premium	2
